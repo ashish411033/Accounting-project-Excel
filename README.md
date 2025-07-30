@@ -24,8 +24,7 @@ Each component is linked logically and demonstrates the real-world application o
 
 ## 🛠 Tools & Techniques Used
 - **Microsoft Excel**
-- **Double Entry Bookkeeping**
-- **Basic Accounting Standards (GAAP/IFRS concepts)**
+- **Basic Accounting Standards**
 - **Excel Functions**: `VLOOKUP`, `IF`, `SUMIF`, `INDEX-MATCH`, `ROUND`, `ABS`
 
 ## 📚 Learning Outcomes
