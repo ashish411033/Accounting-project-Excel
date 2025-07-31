@@ -31,3 +31,5 @@ Each component is linked logically and demonstrates the real-world application o
 - Learn how journal entries impact ledgers and financial statements
 - Gain hands-on experience using Excel for accounting automation
 - Practice generating real financial statements from raw data
+
+![Trial Balance Screenshot](https://github.com/ashish411033/Accounting_Excel_Project/blob/d439e9e8bcbad5a10926d54752f8c36f5aabb552/trial%20balance.PNG)
