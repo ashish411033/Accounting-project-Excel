@@ -33,3 +33,5 @@ Each component is linked logically and demonstrates the real-world application o
 - Practice generating real financial statements from raw data
 
 ![Trial Balance Screenshot](https://github.com/ashish411033/Accounting_Excel_Project/blob/d439e9e8bcbad5a10926d54752f8c36f5aabb552/trial%20balance.PNG)
+![Income Statement Screenshot](https://github.com/ashish411033/Accounting_Excel_Project/blob/687da9e1add86d279ad584be2b516252b5232e6a/income%20statement.PNG)
+![Balance Sheet Screenshot](https://github.com/ashish411033/Accounting_Excel_Project/blob/687da9e1add86d279ad584be2b516252b5232e6a/balance%20sheet.PNG)
